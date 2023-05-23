@@ -11,4 +11,8 @@ eferji
 THIS IS THE CONTENT
 
 THIS IS THE SECOND CONTENT 
+<<<<<<< HEAD
 >>>>>>> parent of 6fdc720 (swffe)
+=======
+THIS IS THE FINAL
+>>>>>>> parent of 3ae25c4 (pushing new files and edited files)
